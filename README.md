@@ -1,5 +1,7 @@
 ## Renewable Energy Mix Predictor Model
 
+![alt text](img/turbine.png)
+
 ### Background
 
 The generation of electricity produces 37.8 gigatonnes of co2 per year! It is therefore vital that we understand what drives the adoption of renewable energy technologies over time.
